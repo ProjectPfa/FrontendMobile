@@ -46,11 +46,10 @@ Ce projet a été développé avec la contribution de :
 - [**Imane Tahri**](https://github.com/imanetahri123)
 - [**Zakaria Zinaoui**](https://github.com/zakariaZinaOui)
 - [**Abid Hanane**](https://github.com/hananabid24)
-- [*Salma Farkhane***](https://github.com/salmafar)
-- [**Zyad Eloussoul **](https://github.com/zyadeloussoul)
+- [**Salma Farkhane**](https://github.com/salmafar)
+- [**Zyad Eloussoul**](https://github.com/zyadeloussoul)
 - [**Elbelaj Hamza**](https://github.com/hamzaelbellaj)
 
 
 
-Footer
-© 2025 GitHub, 
+
