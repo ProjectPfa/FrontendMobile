@@ -42,7 +42,7 @@ https://github.com/user-attachments/assets/e7924f19-df16-45f4-be0c-cd3156369a98
 ## Contributeurs
 
 Ce projet a été développé avec la contribution de :
-- [**Salma Daigham**](https://github.com/salmasd5)
+- [**Salma Daigham**](https://github.com/salmasd5)(chef de project)
 - [**Imane Tahri**](https://github.com/imanetahri123)
 - [**Zakaria Zinaoui**](https://github.com/zakariaZinaOui)
 - [**Abid Hanane**](https://github.com/hananabid24)
