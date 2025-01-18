@@ -1,6 +1,14 @@
 # FrontendMobile
 # ID Extractor Mobile App
 
+## Description Mise à Jour
+L'ID Extractor App a été améliorée pour inclure une interface mise à jour qui permet aux utilisateurs de scanner directement leur pièce d'identité (ID) via l'application mobile. Cette fonctionnalité intuitive intègre une caméra intégrée, optimisée pour capturer des images de haute qualité, garantissant une reconnaissance OCR précise et rapide. Grâce à cette mise à jour, les utilisateurs peuvent extraire leurs informations personnelles en temps réel, sans étapes supplémentaires, ce qui simplifie encore plus la gestion de leurs données.
+Voici les captures d'écran de l'interface mise à jour de l'ID Extractor App, illustrant la nouvelle fonctionnalité de scan direct des pièces d'identité via l'application mobile.
+
+![mobile1](https://github.com/user-attachments/assets/b19eb26d-d739-46a4-af40-2a450e336cda)
+![mobile2](https://github.com/user-attachments/assets/8bf455d5-5f53-4771-b04c-9c28234292a1)
+
+
 ## Description
 L'**ID Extractor App** est une application mobile développée avec **Flutter** qui permet aux utilisateurs d'extraire automatiquement leurs informations personnelles depuis une image de leur pièce d'identité (ID) grâce à la technologie OCR (Optical Character Recognition). Cette application offre une solution rapide, sécurisée et intuitive pour faciliter la gestion des données personnelles.
 
