@@ -12,9 +12,7 @@ https://github.com/user-attachments/assets/43c1d971-4ea4-4998-9fe2-48d444ced6d4
 Cette interface est une generalisation de reconnaissance optique de caractères (OCR) qui permet de convertir des informations visuelles (images comme id image ou documents) en texte exploitable. Son utilité peut être particulièrement pertinente dans des contextes comme le scan d'une carte d'identité (ID) pour en extraire rapidement et efficacement les informations essentielles. Voici une explication détaillée de son usage et de ses fonctionnalités dans notre contexte :
 
 -**Utilité principale** : Scanner une carte d'identité et extraire des informations
-![8888](https://github.com/user-attachments/assets/c2586979-62f7-4fdb-88c7-07c8aeb5f578)
-![666](https://github.com/user-attachments/assets/4e09a975-3420-4a84-9d23-5709e3b989c0)
-![7777](https://github.com/user-attachments/assets/ee74d486-7fcf-4a26-a4a2-9e613c765028)
+
 
 En utilisant l'option "Camera", l'utilisateur peut directement prendre une photo de la carte d'identité. Cela permet de capturer l'image en temps réel, ce qui est pratique lorsqu'aucune copie numérique n'est disponible.
 Une fois la photo prise, l'application peut détecter et extraire automatiquement des informations comme le nom, la date de naissance, le numéro d'identité, etc.
