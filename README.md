@@ -1,6 +1,11 @@
 # FrontendMobile
 # ID Extractor Mobile App
 ## Description Mise à Jour (2) et Features 
+
+
+https://github.com/user-attachments/assets/ca6adccd-e9de-45e2-a0e5-411aabb49f6c
+
+
 Cette interface est une generalisation de reconnaissance optique de caractères (OCR) qui permet de convertir des informations visuelles (images comme id image ou documents) en texte exploitable. Son utilité peut être particulièrement pertinente dans des contextes comme le scan d'une carte d'identité (ID) pour en extraire rapidement et efficacement les informations essentielles. Voici une explication détaillée de son usage et de ses fonctionnalités dans notre contexte :
 
 -**Utilité principale** : Scanner une carte d'identité et extraire des informations
