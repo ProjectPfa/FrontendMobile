@@ -1,5 +1,23 @@
 # FrontendMobile
 # ID Extractor Mobile App
+## Description Mise à Jour (2) et Features 
+Cette interface est une generalisation de reconnaissance optique de caractères (OCR) qui permet de convertir des informations visuelles (images comme id image ou documents) en texte exploitable. Son utilité peut être particulièrement pertinente dans des contextes comme le scan d'une carte d'identité (ID) pour en extraire rapidement et efficacement les informations essentielles. Voici une explication détaillée de son usage et de ses fonctionnalités dans notre contexte :
+
+-**Utilité principale** : Scanner une carte d'identité et extraire des informations
+
+En utilisant l'option "Camera", l'utilisateur peut directement prendre une photo de la carte d'identité. Cela permet de capturer l'image en temps réel, ce qui est pratique lorsqu'aucune copie numérique n'est disponible.
+Une fois la photo prise, l'application peut détecter et extraire automatiquement des informations comme le nom, la date de naissance, le numéro d'identité, etc.
+Importation depuis la galerie (Gallery) :
+
+Si la carte d'identité est déjà numérisée ou stockée sur le téléphone, l'option "Gallery" permet de sélectionner facilement l'image pour lancer l'analyse OCR.
+-**Features**
+Scan des fichiers PDF (Scan PDF) :
+
+Dans le cas où les informations de la carte d'identité sont contenues dans un fichier PDF (comme un document scanné), cette option permet de traiter directement le fichier et d'en extraire les textes importants.
+Fonction de recadrage (Use CROP for select text area) 
+
+Cette fonctionnalité est utile pour délimiter uniquement la partie pertinente de l'image ou du document (par exemple, uniquement la zone contenant le nom et la photo). Cela améliore la précision de l'extraction, en évitant de traiter des informations inutiles.
+
 
 ## Description Mise à Jour
 L'ID Extractor App a été améliorée pour inclure une interface mise à jour qui permet aux utilisateurs de scanner directement leur pièce d'identité (ID) via l'application mobile. Cette fonctionnalité intuitive intègre une caméra intégrée, optimisée pour capturer des images de haute qualité, garantissant une reconnaissance OCR précise et rapide. Grâce à cette mise à jour, les utilisateurs peuvent extraire leurs informations personnelles en temps réel, sans étapes supplémentaires, ce qui simplifie encore plus la gestion de leurs données.
