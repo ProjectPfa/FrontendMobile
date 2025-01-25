@@ -13,6 +13,8 @@ Une fois la photo prise, l'application peut détecter et extraire automatiquemen
 Importation depuis la galerie (Gallery) :
 
 Si la carte d'identité est déjà numérisée ou stockée sur le téléphone, l'option "Gallery" permet de sélectionner facilement l'image pour lancer l'analyse OCR.
+
+
 -**Features**
 ![09999](https://github.com/user-attachments/assets/d023f8d3-b1e7-4eb2-86ac-660052840f01)
 
